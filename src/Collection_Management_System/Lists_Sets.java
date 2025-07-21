@@ -5,8 +5,8 @@ import java.util.*;
 
 public class Lists_Sets {
     static Scanner sc = new Scanner(System.in);
-    static LinkedList ls = new LinkedList();
-    static HashSet hs = new HashSet();
+    static LinkedList<String> ls = new LinkedList<String>();
+    static HashSet<String> hs = new HashSet<String>();
     static HashMap hm = new HashMap();
 
     public static void main(String[] args) {
